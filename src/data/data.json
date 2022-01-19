@@ -1,0 +1,185 @@
+{    
+    "Slides":[
+      {
+        "image": "../img/slides/kraal.jpeg",
+      "slideTitle":"we build kraals",
+      "caption":"we have the best stuff at buiding kraals"
+      },
+      {
+        "image": "../img/slides/watering.jpeg",
+      "slideTitle":"we do watering of plants",
+      "caption":"this is the images of plants being watered"
+      },    {
+        "image": "../img/slides/nursery_bed.jpeg",
+      "slideTitle":"we have nursery beds",
+      "caption":"this is an image of nursery bedss"
+      },    {
+        "image": "../img/slides/fish_ponds.jpeg",
+      "slideTitle":"fish ponds",
+      "caption":"this an image of fish in the pond"
+      }],
+
+  "About": {
+    "paragraph": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
+    "Why": [
+      "Diary farming",
+      "Banana Plantations",
+      "Farming advisory"
+      
+     ],
+    "Why2": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Banana plantation",
+      "largeImage": "img/portfolio/banana_plantation.jpeg",
+      "smallImage": "img/portfolio/banana_plantation.jpeg"
+    },
+    {
+      "title": "Canning our milk",
+      "largeImage": "img/portfolio/canning_our_milk.jpeg",
+      "smallImage": "img/portfolio/canning_our_milk.jpeg"
+    },
+    {
+      "title": "Cow feed",
+      "largeImage": "img/portfolio/cow_feed.jpeg",
+      "smallImage": "img/portfolio/cow_feed.jpeg"
+    },
+    {
+      "title": "Drinking place",
+      "largeImage": "img/portfolio/drinking_place.jpeg",
+      "smallImage": "img/portfolio/drinking_place.jpeg"
+    },
+    {
+      "title": "Fish pond",
+      "largeImage": "img/portfolio/fish_pond.jpeg",
+      "smallImage": "img/portfolio/fish_pond.jpeg"
+    },
+    {
+      "title": "Geese",
+      "largeImage": "img/portfolio/geese.jpeg",
+      "smallImage": "img/portfolio/geese.jpeg"
+    },
+    {
+      "title": "Grass",
+      "largeImage": "img/portfolio/grass.jpeg",
+      "smallImage": "img/portfolio/grass.jpeg"
+    },
+    {
+      "title": "milking cow",
+      "largeImage": "img/portfolio/milking_cow.jpeg",
+      "smallImage": "img/portfolio/milking_cow.jpeg"
+    },
+    {
+      "title": "Our farming practices",
+      "largeImage": "img/portfolio/our_farming_practices.jpeg",
+      "smallImage": "img/portfolio/our_farming_practices.jpeg"
+    },
+    {
+      "title": "Nursery bed",
+      "largeImage": "img/portfolio/nursery_bed.jpeg",
+      "smallImage": "img/portfolio/nursery_bed.jpeg"
+    },{
+      "title": "watering",
+      "largeImage": "img/portfolio/watering.jpeg",
+      "smallImage": "img/portfolio/watering.jpeg"
+    },{
+      "title": "kraal",
+      "largeImage": "img/portfolio/kraal.jpeg",
+      "smallImage": "img/portfolio/kraal.jpeg"
+    },{
+      "title": "cow_kraal.jpeg",
+      "largeImage": "img/portfolio/cow_kraal.jpeg",
+      "smallImage": "img/portfolio/cow_kraal.jpeg"
+    },{
+      "title": "cows in the kraal",
+      "largeImage": "img/portfolio/cows_kraal.jpeg",
+      "smallImage": "img/portfolio/cows_kraal.jpeg"
+    },{
+      "title": "Omuraalo",
+      "largeImage": "img/portfolio/omuraalo.jpeg",
+      "smallImage": "img/portfolio/omuraalo.jpeg"
+    },{
+      "title": "pawpaw tree",
+      "largeImage": "img/portfolio/pawpaw_tree.jpeg",
+      "smallImage": "img/portfolio/pawpaw_tree.jpeg"
+    },{
+      "title": "vertical farming",
+      "largeImage": "img/portfolio/vertical_farming.jpeg",
+      "smallImage": "img/portfolio/vertical_farming.jpeg"
+    },{
+      "title": "Our farming practices",
+      "largeImage": "img/portfolio/our_farming_practices.jpeg",
+      "smallImage": "img/portfolio/our_farming_practices.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+
+ 
+  "Contact": {
+    "address": "Buyanga Muyomba Wakiso",
+    "phone": "+256701878187",
+    "email": "buyanga@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
