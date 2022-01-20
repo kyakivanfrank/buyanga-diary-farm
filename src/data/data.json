@@ -178,11 +178,73 @@
       "job": "Founder"
     }
   ],
-"blog":
-[
-  {
-    "quote": {"txt": "Lorem ipsukusdkgjsdgkjhs", "writer":"arnold"},
-    "article": {"img":"", "article":"" }
-  }
+"Blog":[
+  {"img":"img/articles/kraal.jpeg",
+    "article":"this is where the article was extracted",
+    "title": "this is the title",
+    "extract":"from new vision"
+     },{"img":"img/articles/kraal.jpeg",
+      "article":"this is where the article was extracted",
+      "title": "this is the title",
+      "extract":"from new vision"
+       },{"img":"img/articles/kraal.jpeg",
+        "article":"this is where the article was extracted",
+        "title": "this is the title",
+        "extract":"from new vision"
+         },{"img":"img/articles/kraal.jpeg",
+          "article":"this is where the article was extracted",
+          "title": "this is the title",
+          "extract":"from new vision"
+           },{"img":"img/articles/kraal.jpeg",
+            "article":"this is where the article was extracted",
+            "title": "this is the title",
+            "extract":"from new vision"
+             },{"img":"img/articles/kraal.jpeg",
+              "article":"this is where the article was extracted",
+              "title": "this is the title",
+              "extract":"from new vision"
+               },{"img":"img/articles/kraal.jpeg",
+                "article":"this is where the article was extracted",
+                "title": "this is the title",
+                "extract":"from new vision"
+                 },{"img":"img/articles/kraal.jpeg",
+                  "article":"this is where the article was extracted",
+                  "title": "this is the title",
+                  "extract":"from new vision"
+                   },{"img":"img/articles/kraal.jpeg",
+                    "article":"this is where the article was extracted",
+                    "title": "this is the title",
+                    "extract":"from new vision"
+                     },{"img":"img/articles/kraal.jpeg",
+                      "article":"this is where the article was extracted",
+                      "title": "this is the title",
+                      "extract":"from new vision"
+                       },{"img":"img/articles/kraal.jpeg",
+                        "article":"this is where the article was extracted",
+                        "title": "this is the title",
+                        "extract":"from new vision"
+                         },{"img":"img/articles/kraal.jpeg",
+                          "article":"this is where the article was extracted",
+                          "title": "this is the title",
+                          "extract":"from new vision"
+                           },{"img":"img/articles/kraal.jpeg",
+                            "article":"this is where the article was extracted",
+                            "title": "this is the title",
+                            "extract":"from new vision"
+                             },{"img":"img/articles/kraal.jpeg",
+                              "article":"this is where the article was extracted",
+                              "title": "this is the title",
+                              "extract":"from new vision"
+                               },
+     {"img":"img/articles/kraal.jpeg",
+      "article":"this is where the article was extracted",
+      "title": "this is the title",
+      "extract":"from new vision"
+       },{"img":"img/articles/kraal.jpeg",
+        "article":"this is where the article was extracted",
+        "title": "this is the title",
+        "extract":"from new vision"
+         }
 ]
+
 }

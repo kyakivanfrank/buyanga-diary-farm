@@ -319,7 +319,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 100px 0;
+  padding: 100px 0 50px;
   /* background: url("../img/aboutBG.png"); */
   /* background-size: 20%; */
   /* background-repeat: repeat; */
@@ -338,7 +338,6 @@ header .intro-text {
   margin-bottom: 15px;
   padding-bottom: 15px;
   color: #14030c;
-
 }
 #about h2::after {
   position: absolute;
@@ -381,7 +380,10 @@ header .intro-text {
   margin: 50px auto 0;
 }
 
-.statements h2{border: none;}
+ #smalla{
+  font-size: 90px;
+}
+
 /* Services Section */
 #services {
   padding: 100px 0;
@@ -527,7 +529,7 @@ header .intro-text {
 }
 /* Team Section */
 #team {
-  padding: 100px 0;
+  padding: 0px 0 50px;
 }
 #team h4 {
   margin: 5px 0;
@@ -690,8 +692,45 @@ label {
   border-bottom: 2px solid #608dfd;
 }
 
+/* blog */
+
+#blog{
+  padding: 100px 0 0px;
+}
+
+#ourblog{ margin: 0px auto 20px; text-align: center;}
+#blog .row{padding: 40px 0; border-bottom: 3px yellow solid}
+
+#blog h2 {
+  color: #14030c;
+}
+#blog p{
+  font-size: 18px;
+}
+.blog-scroll{
+  height: 90%;
+  overflow-x:hidden;
+  overflow-y: scroll;
+}
+
+#blog h5{ color: #a7a6a6; font-size: 15px; text-transform: lowercase; font-weight: 600; font-style: italic;}
+
+
+
+
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
   }
+  #ourblog{ margin: 0}
+
+  .imgSpan img{
+  width: 220%;
+  }
+  .imgSpan img:hover{
+    width: 210%;
+  }
+  .col-md-3{width: 100%;}
+  .intro h1{font-size: 40px;}
+  .intro p{font-size: 20px;}
 }

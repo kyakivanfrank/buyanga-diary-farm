@@ -30,9 +30,9 @@ export const About = (props) => {
 
         <div className="statements">
         <h2>Our Mission</h2>
-        <h3>{props.data ? props.data.mission : "loading..."}</h3>
+        <h4 >{props.data ? props.data.mission : "loading..."}</h4>
         <h2>Our Vision for the future</h2>
-        <h3>{props.data ? props.data.vision : "loading..."}</h3>
+        <h4 className="smalla">{props.data ? props.data.vision : "loading..."}</h4>
         </div>
         
 
