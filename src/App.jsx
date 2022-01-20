@@ -23,11 +23,11 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      <Header data={landingPageData.Slides} />
+      {/* <Header data={landingPageData.Slides} /> */}
+      {/* <About data={landingPageData.About} /> */}
        <Services data={landingPageData.Services} />
-       <Gallery data={landingPageData.Gallery}/> 
-      <About data={landingPageData.About} />
-      <Contact data={landingPageData.Contact} /> 
+       {/* <Gallery data={landingPageData.Gallery}/>  */}
+      {/* <Contact data={landingPageData.Contact} />  */}
     </div>
   );
 };

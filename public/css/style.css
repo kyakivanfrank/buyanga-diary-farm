@@ -88,12 +88,12 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 20px;
   font-weight: 700;
-  color: #a7d639;
-  text-transform: uppercase;
+  color: yellow;
+  text-transform: capitalize;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color:#fff;
   font-size: 15px;
   font-weight: 400;
@@ -113,7 +113,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #a7d639 0%, #b7e746 100%);
+  background: linear-gradient(to right, yellow 0%, #b7e746 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -136,7 +136,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #a7d639 0%, #b7e746 100%) !important;
+  background: linear-gradient(to right, yellow 0%, #b7e746 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -171,7 +171,7 @@ hr {
   left: 50%;
 }
 .section-title p {
-  font-size: 18px;
+  font-size: 24px;
 }
 .btn-custom {
   font-family: "Raleway", sans-serif;
@@ -218,12 +218,13 @@ a:focus,
 
 .slideContainer{
   position: relative;
-  height: 620px;
+  height: 650px;
   overflow: hidden;
 }
 
-
 .imgSpan img{
+  filter: brightness(35%);
+  /* filter: grayscale(60%); */
   align-self: center;
 width: 120%;
 transition: 2s;
@@ -237,12 +238,11 @@ animation-timing-function: ease;}
 
 .imgSpan img:hover{
 width: 100%;
-
 }
 
 .slideContainer .slideText{
   position: absolute;
-  top: 35%;
+  top: 45%;
   left: 11%;}
 
 .slideText{
@@ -255,7 +255,6 @@ width: 100%;
   from{left: 5%}
   to{left: 11%;}
 }
-
 
 .intro {
   display: table;
@@ -273,9 +272,10 @@ width: 100%;
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 60px;
+  font-size: 55px;
   font-weight: 700;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  text-transform: capitalize;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -377,6 +377,10 @@ header .intro-text {
 #services .service-desc {
   margin: 10px 10px 20px;
 }
+
+.service-desc p{
+  text-align: justify;
+}
 #services h2 {
   color: #fff;
 }
@@ -390,6 +394,8 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
+
+.row img {width: 100%;}
 #services i.fa {
   font-size: 42px;
   width: 120px;
@@ -403,7 +409,7 @@ header .intro-text {
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: yellow;
 }
 #services p {
   color: rgba(255, 255, 255, 0.75);
@@ -534,6 +540,7 @@ header .intro-text {
 }
 #contact .section-title p {
   font-size: 16px;
+  color: yellow;
 }
 #contact h2 {
   color: #fff;

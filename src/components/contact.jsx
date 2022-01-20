@@ -20,7 +20,8 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_ebl72is', 'template_02iasui', e.target, 'user_8wjWddRgvmaWWwZOyYO92'
+        // 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
       )
       .then(
         (result) => {
@@ -149,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 202 Kyakusse Frank Ivan |{' '}
+     &copy; 2022 Kyakusse Frank Ivan | {"Maintained by "}
             <a href='http://frank-portifolio.herokuapp.com' rel='nofollow'>
               Kyakivanfrank
             </a>
