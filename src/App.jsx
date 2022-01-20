@@ -3,8 +3,9 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
+// import { Gallery } from "./components/gallery";
 import { Contact } from "./components/contact";
+// import {Team } from "./components/team";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -23,11 +24,12 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      {/* <Header data={landingPageData.Slides} /> */}
-      {/* <About data={landingPageData.About} /> */}
-       <Services data={landingPageData.Services} />
-       {/* <Gallery data={landingPageData.Gallery}/>  */}
-      {/* <Contact data={landingPageData.Contact} />  */}
+      <Header data={landingPageData.Slides} /> 
+      <About data={landingPageData.About} />
+      {/* <Team data={landingPageData.Team}/> */}
+      <Services data={landingPageData.Services} /> 
+      {/* <Gallery data={landingPageData.Gallery}/>  */}
+      <Contact data={landingPageData.Contact} /> 
     </div>
   );
 };

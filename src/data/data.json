@@ -21,11 +21,12 @@
 
   "About": {
     "paragraph": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
+    "vision": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
+    "mission": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
     "Why": [
       "Diary farming",
       "Banana Plantations",
       "Farming advisory"
-      
      ],
     "Why2": [
       "",
@@ -156,26 +157,32 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Team": [
     {
-      "img": "../img/services/milk.jpg",
-      "title": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/team/preeti.jpg",
+      "name": "Preeti Singhvi",
+      "job": "Founder"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/team/anusha.jpg",
+      "name": "Anusha Kansara",
+      "job": "Founder"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/team/anusha.jpg",
+      "name": "Anusha Kansara",
+      "job": "Founder"
+    },{
+      "img": "img/team/lata.jpg",
+      "name": "Lata Reddy",
+      "job": "Founder"
     }
-  ]
+  ],
+"blog":
+[
+  {
+    "quote": {"txt": "Lorem ipsukusdkgjsdgkjhs", "writer":"arnold"},
+    "article": {"img":"", "article":"" }
+  }
+]
 }

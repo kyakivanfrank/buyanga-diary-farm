@@ -27,6 +27,16 @@ export const About = (props) => {
             </div>
           </div>
         </div>
+
+        <div className="statements">
+        <h2>Our Mission</h2>
+        <h3>{props.data ? props.data.mission : "loading..."}</h3>
+        <h2>Our Vision for the future</h2>
+        <h3>{props.data ? props.data.vision : "loading..."}</h3>
+        </div>
+        
+
+
       </div>
     </div>
   );
