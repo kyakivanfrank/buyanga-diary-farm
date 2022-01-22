@@ -2,7 +2,6 @@
 export const Header = ({data}) => {
 let num = Math.floor(Math.random()*4)
 
-console.log(num)
   return <header id='header'>
       <div className='intro'>
         <div className='overlay'>

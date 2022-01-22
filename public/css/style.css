@@ -467,6 +467,10 @@ header .intro-text {
   opacity: 0;
   transition: all 0.5s;
 }
+.hover-text p{
+  color: #f6f6f6;
+  padding: 0 20px;
+}
 .hover-bg .hover-text > h4 {
   opacity: 0;
   color: #fff;
@@ -530,13 +534,20 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 0px 0 50px;
+  background-color: #f6f6f6;
 }
 #team h4 {
   margin: 5px 0;
 }
 #team .team-img {
   width: 240px;
+  border: 10px white solid;
 }
+#t_name{
+  text-transform: uppercase;
+  
+}
+#teamH2{margin-top: 40px;}
 #team .thumbnail {
   background: transparent;
   border: 0;

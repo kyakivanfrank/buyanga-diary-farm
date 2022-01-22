@@ -38,83 +38,101 @@
   "Gallery": [
     {
       "title": "Banana plantation",
+      "description":"this is the banana planatationss",
       "largeImage": "img/portfolio/banana_plantation.jpeg",
       "smallImage": "img/portfolio/banana_plantation.jpeg"
     },
     {
       "title": "Canning our milk",
+      "description":"this is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationss",
       "largeImage": "img/portfolio/canning_our_milk.jpeg",
       "smallImage": "img/portfolio/canning_our_milk.jpeg"
     },
     {
       "title": "Cow feed",
+      "description":"this is the banana planatationss",
       "largeImage": "img/portfolio/cow_feed.jpeg",
       "smallImage": "img/portfolio/cow_feed.jpeg"
     },
     {
       "title": "Drinking place",
+      "description":"this is the banana planatationss",
       "largeImage": "img/portfolio/drinking_place.jpeg",
       "smallImage": "img/portfolio/drinking_place.jpeg"
     },
     {
       "title": "Fish pond",
+      "description":"",
       "largeImage": "img/portfolio/fish_pond.jpeg",
       "smallImage": "img/portfolio/fish_pond.jpeg"
     },
     {
       "title": "Geese",
+      "description":"",
       "largeImage": "img/portfolio/geese.jpeg",
       "smallImage": "img/portfolio/geese.jpeg"
     },
     {
       "title": "Grass",
+      "description":"",
       "largeImage": "img/portfolio/grass.jpeg",
       "smallImage": "img/portfolio/grass.jpeg"
     },
     {
       "title": "milking cow",
+      "description":"",
       "largeImage": "img/portfolio/milking_cow.jpeg",
       "smallImage": "img/portfolio/milking_cow.jpeg"
     },
     {
       "title": "Our farming practices",
+      "description":"",
       "largeImage": "img/portfolio/our_farming_practices.jpeg",
       "smallImage": "img/portfolio/our_farming_practices.jpeg"
     },
     {
       "title": "Nursery bed",
+      "description":"",
       "largeImage": "img/portfolio/nursery_bed.jpeg",
       "smallImage": "img/portfolio/nursery_bed.jpeg"
     },{
       "title": "watering",
+      "description":"",
       "largeImage": "img/portfolio/watering.jpeg",
       "smallImage": "img/portfolio/watering.jpeg"
     },{
       "title": "kraal",
+      "description":"",
       "largeImage": "img/portfolio/kraal.jpeg",
       "smallImage": "img/portfolio/kraal.jpeg"
     },{
       "title": "cow_kraal.jpeg",
+      "description":"",
       "largeImage": "img/portfolio/cow_kraal.jpeg",
       "smallImage": "img/portfolio/cow_kraal.jpeg"
     },{
       "title": "cows in the kraal",
+      "description":"",
       "largeImage": "img/portfolio/cows_kraal.jpeg",
       "smallImage": "img/portfolio/cows_kraal.jpeg"
     },{
       "title": "Omuraalo",
+      "description":"",
       "largeImage": "img/portfolio/omuraalo.jpeg",
       "smallImage": "img/portfolio/omuraalo.jpeg"
     },{
       "title": "pawpaw tree",
+      "description":"",
       "largeImage": "img/portfolio/pawpaw_tree.jpeg",
       "smallImage": "img/portfolio/pawpaw_tree.jpeg"
     },{
       "title": "vertical farming",
+      "description":"",
       "largeImage": "img/portfolio/vertical_farming.jpeg",
       "smallImage": "img/portfolio/vertical_farming.jpeg"
     },{
       "title": "Our farming practices",
+      "description":"",
       "largeImage": "img/portfolio/our_farming_practices.jpeg",
       "smallImage": "img/portfolio/our_farming_practices.jpeg"
     }
@@ -152,30 +170,34 @@
   "Contact": {
     "address": "Buyanga Muyomba Wakiso",
     "phone": "+256701878187",
-    "email": "buyanga@gmail.com",
+    "email": "buyangadairyfarm@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Team": [
     {
-      "img": "img/team/preeti.jpg",
-      "name": "Preeti Singhvi",
-      "job": "Founder"
+      "img": "img/team/samuel_kalungi_copy.png",
+      "name": "Samuel Kalungi",
+      "job": "Director",
+      "school":"Bsc. Science in agriculture - MUK"
     },
     {
-      "img": "img/team/anusha.jpg",
-      "name": "Anusha Kansara",
-      "job": "Founder"
+      "img": "img/team/aisha_nalwoga_copy.png",
+      "name": "Aisha Nalwoga",
+      "job": "Ass. Director",
+      "school":"Bsc. Aqua culture - MUK"
     },
     {
-      "img": "img/team/anusha.jpg",
-      "name": "Anusha Kansara",
-      "job": "Founder"
+      "img": "img/team/hajara_kalungi_copy.png",
+      "name": "Hajara Kalungi",
+      "job": "Farm Manager",
+      "school":"Bsc. Environmental science - MUK"
     },{
-      "img": "img/team/lata.jpg",
-      "name": "Lata Reddy",
-      "job": "Founder"
+      "img": "img/team/nuhu_mawanda_copy.png",
+      "name": "Nuhu Mawanda",
+      "job": "Accountant",
+      "school":"Bsc. Commerce - MUK"
     }
   ],
 "Blog":[
@@ -195,56 +217,7 @@
           "article":"this is where the article was extracted",
           "title": "this is the title",
           "extract":"from new vision"
-           },{"img":"img/articles/kraal.jpeg",
-            "article":"this is where the article was extracted",
-            "title": "this is the title",
-            "extract":"from new vision"
-             },{"img":"img/articles/kraal.jpeg",
-              "article":"this is where the article was extracted",
-              "title": "this is the title",
-              "extract":"from new vision"
-               },{"img":"img/articles/kraal.jpeg",
-                "article":"this is where the article was extracted",
-                "title": "this is the title",
-                "extract":"from new vision"
-                 },{"img":"img/articles/kraal.jpeg",
-                  "article":"this is where the article was extracted",
-                  "title": "this is the title",
-                  "extract":"from new vision"
-                   },{"img":"img/articles/kraal.jpeg",
-                    "article":"this is where the article was extracted",
-                    "title": "this is the title",
-                    "extract":"from new vision"
-                     },{"img":"img/articles/kraal.jpeg",
-                      "article":"this is where the article was extracted",
-                      "title": "this is the title",
-                      "extract":"from new vision"
-                       },{"img":"img/articles/kraal.jpeg",
-                        "article":"this is where the article was extracted",
-                        "title": "this is the title",
-                        "extract":"from new vision"
-                         },{"img":"img/articles/kraal.jpeg",
-                          "article":"this is where the article was extracted",
-                          "title": "this is the title",
-                          "extract":"from new vision"
-                           },{"img":"img/articles/kraal.jpeg",
-                            "article":"this is where the article was extracted",
-                            "title": "this is the title",
-                            "extract":"from new vision"
-                             },{"img":"img/articles/kraal.jpeg",
-                              "article":"this is where the article was extracted",
-                              "title": "this is the title",
-                              "extract":"from new vision"
-                               },
-     {"img":"img/articles/kraal.jpeg",
-      "article":"this is where the article was extracted",
-      "title": "this is the title",
-      "extract":"from new vision"
-       },{"img":"img/articles/kraal.jpeg",
-        "article":"this is where the article was extracted",
-        "title": "this is the title",
-        "extract":"from new vision"
-         }
+           }
 ]
 
 }

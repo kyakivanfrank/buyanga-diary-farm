@@ -15,9 +15,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className='navbar-brand page-scroll'  href='#page-top'>
             <div id="svgB"><img src="../img/cow.svg" alt="cow" /></div>
-            buyanga diary farm
+            buyanga dairy farm
           </a>{' '}
         </div>
 
@@ -27,7 +27,7 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
           <li>
-              <a href='#about' className='page-scroll'>
+              <a href='#about' className='page-scroll' >
                Our Story
               </a>
             </li>

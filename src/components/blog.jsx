@@ -1,6 +1,5 @@
 export const Blog = (props) => {
 
-console.log(props.data)
   return <div id="blog">
   <div className="container blog-sroll">
     <h2 id="ourblog">articles and extracts</h2>
