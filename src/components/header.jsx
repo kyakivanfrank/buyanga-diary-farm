@@ -14,6 +14,7 @@ let num = Math.floor(Math.random()*4)
           <h1>{data[num].slideTitle}</h1>
           <p>{data[num].caption}</p>
         </div>
+        {/* <button id="btn-heading" className="btn btn-lg">explore</button> */}
       </div> 
            : "loading"}
 

@@ -224,11 +224,11 @@ a:focus,
 
 .imgSpan img{
   position: absolute;
+  width: 110%;
   left: -5%;
   filter: brightness(35%);
   /* filter: grayscale(60%); */
   align-self: center;
-width: 110%;
 transition: 4s;
 transition-delay: 50ms;
 animation: emerge 3s;
@@ -247,7 +247,7 @@ animation-timing-function: ease;}
 
 .slideContainer .slideText{
   position: absolute;
-  top: 45%;
+  top: 35%;
   left: 11%;}
 
 .slideText{
@@ -288,13 +288,52 @@ animation-timing-function: ease;}
   font-weight: 800;
   color: #112014;
 }
+
+@keyframes btnEmerge {
+  from{opacity: 0;top:90%; transform: scale(1.05);}
+  60%{transform:scale(1.1);}
+  to{opacity: 1; transform: scale(1);}
+  
+}
+
+.intro #btn-heading{
+font-size: 20px;;
+  color: white;
+  font-weight: 500;
+  letter-spacing: 2px;
+  background: none;
+  /* background-color: linear-gradient(to right, rgba(255, 255, 0, 0.192) 20% rgba(255, 255, 0, 0.548) 100); */
+  border:3px yellow solid;
+  border-radius: 40px;
+  width: 200px;
+  text-transform: capitalize;
+  position: absolute;
+  left: 45%;
+  top: 75%;
+  animation: btnEmerge 2s;
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.intro #btn-heading::after{
+  transition: 3s;
+}
+
+.intro  #btn-heading:hover:after{
+  content: ">";
+}
+
+.intro #btn-heading:hover{
+  transition: 1s;
+  color: black;
+  background:yellow;
+}
 .intro p {
   color: #fff;
   font-size: 30px;
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
-  margin-bottom: 60px;
+  margin-bottom: 29px;
 }
 header .intro-text {
   padding-top: 350px;
