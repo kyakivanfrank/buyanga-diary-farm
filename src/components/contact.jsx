@@ -20,12 +20,14 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'service_ebl72is', 'template_02iasui', e.target, 'user_8wjWddRgvmaWWwZOyYO92'
+        'service_ob0wcvh', 'template_39w043m', e.target, 'user_7TFkol4DPBtHKpNz2dEKM'
         // 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
       )
       .then(
         (result) => {
           console.log(result.text)
+    e.preventDefault()
+
           clearState()
         },
         (error) => {
@@ -45,7 +47,7 @@ export const Contact = (props) => {
                   Drop us a message if you have any farming related queries. We'll be glad to talk to you.
                 </p>
               </div>
-              <form name='sentMessage' onSubmit={handleSubmit}>
+              <form name='sentMessage' onSubmit={handleSubmit} >
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
