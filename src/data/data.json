@@ -1,32 +1,21 @@
 {    
     "Slides":[
       {
-        "image": "../img/slides/kraal.gif",
-      "slideTitle":"we build kraals",
-      "caption":"we have the best stuff at buiding kraalswe have the best stuff at buiding kraalswe have the best stuff at buiding kraalswe have the best stuff at buiding kraalswe have the best stuff at buiding kraalswe have the best stuff at buiding kraalswe have the best stuff at buiding kraals"
-      },
-      {
-        "image": "../img/slides/watering.jpeg",
-      "slideTitle":"we do watering of plants",
-      "caption":"this is the images of plants being watered"
-      },    {
-        "image": "../img/slides/nursery_bed.jpeg",
-      "slideTitle":"we have nursery beds",
-      "caption":"this is an image of nursery bedss"
+        "image": "../img/slides/cows.jpg",
+      "slideTitle":"Zero grazing cattle",
+      "caption":"Our farm activities extend not only to catering for our healthy animals. But we also advise and help other local farmers on zero grazing and other productive farming practices."
       },    {
         "image": "../img/slides/fish_ponds.jpeg",
-      "slideTitle":"fish ponds",
-      "caption":"this an image of fish in the pond"
+      "slideTitle":"Besides dairy  we do other farming projects",
+      "caption":"With most emphasis on Dairy, We also carry out fish farming, plantation and more which in return help us for food security, income and feeding our animals"
       }],
 
   "About": {
-    "paragraph": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
-    "vision": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
-    "mission": "Inspiration grew when our Director Mr Kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows",
+    "paragraph": "Buyanga dairy farm's Inspiration grew when our Director Mr. Samuel kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows. And we're working painstakingly not only on dairy farming but in other fields like aqua culture, cultivation and much more.",
+    "vision": "Atleast in the middle or by the end of the decade we'll have grown our farm from 17 to a warping 200 animals. And have managed to help a number of local farmers so the chain of development is kept steady",
+    "mission": "Our ambition is to fight poverty through building and growing productive farming systems for ourselves and the local farmers in our area. We guide them on how to breed healthy animals.",
     "Why": [
-      "Diary farming",
-      "Banana Plantations",
-      "Farming advisory"
+      "Diary farming","Farming advisory","Banana Plantations"
      ],
     "Why2": [
       "",
@@ -139,31 +128,31 @@
   ],
   "Services": [
     {
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "../img/services/cows.jpg",
+      "name": "Dairy farming and food security",
+      "text": "We keep our animals(cows) purposely to generate income and for diary products like beef, milk, butter, cheese etc! And from 2 cows we've managed to keep around 15 more animals"
+    },
+    {
+      "icon": "../img/services/Advisory.jpg",
+      "name": "Advisory and inspiration",
+      "text": "We push knowledge down to the local farmers nearby on effective farming practices through organizing and attending seminars, Organizing the farmers into groups to grow together"
+    },{
+      "icon": "../img/services/insermination.jpg",
+      "name": "Guiding local farmers on breeds",
+      "text": "With close attention offered through guiding them, to we also help our local farmers deeply technical practices like articifial insermination, breeding their animals, keeping records(how many liters of milk the cows produce and more)"
     },
     {
       "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Finding market for farmer's products",
+      "text": "Since it's all about income. We've helped farmers on finding better market for their produce. Where they can sell their milk"
     },{
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "../img/services/vertical_farming.jpeg",
+      "name": "Small scale gardens",
+      "text": "On the side, we also grow crops, we practice and encourage modern practices like small scale vertical gardens of skuma wiki, we have a large banana plantations and make use of the cow dung from the animals to as pesticides and fertilizers"
     },{
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },{
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for our products",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "../img/services/fish_ponds.jpeg",
+      "name": "Aquaculture",
+      "text": "we have ponds of fish and aim to encourage farmers on aqua culture too"
     }
   ],
 

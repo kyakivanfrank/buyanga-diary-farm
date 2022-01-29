@@ -1,6 +1,6 @@
 // import { useState } from "react";
 export const Header = ({data}) => {
-let num = Math.floor(Math.random()*4)
+let num = Math.floor(Math.random()*2)
 
   return <header id='header'>
       <div className='intro'>
@@ -13,8 +13,10 @@ let num = Math.floor(Math.random()*4)
           <div className="slideText">
           <h1>{data[num].slideTitle}</h1>
           <p>{data[num].caption}</p>
+          <p><a id="btn_heading" href='#services' className='page-scroll'>learn more  </a></p>
+          
+
         </div>
-        {/* <button id="btn-heading" className="btn btn-lg">explore</button> */}
       </div> 
            : "loading"}
 
