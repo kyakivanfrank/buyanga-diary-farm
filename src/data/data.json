@@ -190,23 +190,16 @@
     }
   ],
 "Blog":[
-  {"img":"img/articles/kraal.jpeg",
-    "article":"this is where the article was extracted",
-    "title": "this is the title",
-    "extract":"from new vision"
-     },{"img":"img/articles/kraal.jpeg",
-      "article":"this is where the article was extracted",
-      "title": "this is the title",
-      "extract":"from new vision"
-       },{"img":"img/articles/kraal.jpeg",
-        "article":"this is where the article was extracted",
-        "title": "this is the title",
-        "extract":"from new vision"
-         },{"img":"img/articles/kraal.jpeg",
-          "article":"this is where the article was extracted",
-          "title": "this is the title",
-          "extract":"from new vision"
-           }
+  {"img":"img/articles/heifer.jpeg",
+    "title": "From Kenya to Bangladesh: 5 Ways Heifer Builds Strong Market Systems",
+    "article":"The road to resilient food systems is not without its obstacles. A changing climate often complicates harvests. Natural disasters flood fields and damage yields. And, sometimes, a novel pathogen triggers a once-in-a-century pandemic, battering supply chains and forcing agricultural workers to stay home. Heifer understands working toward a world free of poverty and hunger means planning now for an unpredictable future. For lasting change, we’re thinking big by working local, improving the collective power of smallholder farmers through technical training and business support, and by developing sturdy market systems at the community level. This requires investing — in local farmers and their communities, the infrastructure they use and the systems in place that enable the most vulnerable to earn a Sustainable Living Income, generating wealth to lift themselves out of poverty. And the stakes are high: Efficient market systems and fair prices give farmers the purchasing power to keep nutritious food on the table and roofs above their heads. Investing in infrastructure across our projects in Asia, Africa and the Americas paves the way forward for farmers’ success.",
+    "extract":"Heifer Uganda | December 3 2021"
+     },
+     {"img":"img/articles/education.jpg",
+      "title": "How Heifer Supports Farmers Through Education",
+      "article":"On this International Day of Education we recognize the important role that education plays in improving the lives and livelihoods of farmers around the world. Heifer has a long history of supporting farmers as they join cooperatives to share knowledge, pool resources, and access financing to invest and grow their farms and businesses. Through our Community Mobilization model Heifer has created a framework for building the skills of individuals and communities as they work together to achieve their goals. Supporting the world’s poorest households to earn a Sustainable Living Income requires attention to the skills and information that are most needed to begin their journey. For instance, essential literacy skills empower women in remote rural villages, while record keeping and business plan training supports first-time farmers as they start their businesses. Throughout the training process, individuals and self-help groups are active agents in their own development, implementing what they have learned in their lives as parents and family members, entrepreneurs and cooperative leaders as well as other roles and opportunities opened through training from Heifer. These efforts are aimed at accelerating progress towards United Nations Sustainable Development Goal 4, which seeks to improve access to education for all. ",
+      "extract":"Heifer International | January 24, 2022"
+       }
 ]
 
 }
