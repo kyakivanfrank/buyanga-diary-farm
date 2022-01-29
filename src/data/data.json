@@ -27,13 +27,13 @@
   "Gallery": [
     {
       "title": "Banana plantation",
-      "description":"this is the banana planatationss",
+      "description":"we have a full hectare of bananas",
       "largeImage": "img/portfolio/banana_plantation.jpeg",
       "smallImage": "img/portfolio/banana_plantation.jpeg"
     },
     {
       "title": "Canning our milk",
-      "description":"this is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationssthis is the banana planatationss",
+      "description":"canning our milk in the morning",
       "largeImage": "img/portfolio/canning_our_milk.jpeg",
       "smallImage": "img/portfolio/canning_our_milk.jpeg"
     },
