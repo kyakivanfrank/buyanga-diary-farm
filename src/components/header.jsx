@@ -1,4 +1,3 @@
-// import { useState } from "react";
 export const Header = ({data}) => {
 let num = Math.floor(Math.random()*2)
 

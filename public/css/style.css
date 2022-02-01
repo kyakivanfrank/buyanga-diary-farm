@@ -302,7 +302,16 @@ animation-timing-function: ease;}
 
 .intro #btn_heading::after{
   content: url(../img/rightArrow.svg);
+  transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
+.intro #btn_heading:hover{
+  transition: 2s;
+}
+
+.intro #btn_heading:hover:after
+{padding-left: 10px;
+transition: 1s;}
+
 
 .intro #btn_heading:hover{
   transition: 2s;
