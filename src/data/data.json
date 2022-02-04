@@ -11,11 +11,11 @@
       }],
 
   "About": {
-    "paragraph": "Buyanga dairy farm's Inspiration grew when our Director Mr. Samuel kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows. And we're working painstakingly not only on dairy farming but in other fields like aqua culture, cultivation and much more.",
+    "paragraph": "Buyanga dairy farm is designed to boost agriculture, majoring in Dairy and poultry  in order to increase the incomes of small scale farmers, so they can lift their families and communities out of poverty.",
     "vision": "Atleast in the middle or by the end of the decade we'll have grown our farm from 17 to a warping 200 animals. And have managed to help a number of local farmers so the chain of development is kept steady",
     "mission": "Our ambition is to fight poverty through building and growing productive farming systems for ourselves and the local farmers in our area. We guide them on how to breed healthy animals.",
     "Why": [
-      "Diary farming","Farming advisory","Banana Plantations"
+      "Diary farming","Farming advisory","poultry"
      ],
     "Why2": [
       "",
@@ -54,18 +54,6 @@
       "description":"",
       "largeImage": "img/portfolio/fish_pond.jpeg",
       "smallImage": "img/portfolio/fish_pond.jpeg"
-    },
-    {
-      "title": "Geese",
-      "description":"",
-      "largeImage": "img/portfolio/geese.jpeg",
-      "smallImage": "img/portfolio/geese.jpeg"
-    },
-    {
-      "title": "Grass",
-      "description":"",
-      "largeImage": "img/portfolio/grass.jpeg",
-      "smallImage": "img/portfolio/grass.jpeg"
     },
     {
       "title": "milking cow",
@@ -109,21 +97,12 @@
       "description":"",
       "largeImage": "img/portfolio/omuraalo.jpeg",
       "smallImage": "img/portfolio/omuraalo.jpeg"
-    },{
-      "title": "pawpaw tree",
-      "description":"",
-      "largeImage": "img/portfolio/pawpaw_tree.jpeg",
-      "smallImage": "img/portfolio/pawpaw_tree.jpeg"
-    },{
+    },
+{
       "title": "vertical farming",
       "description":"",
       "largeImage": "img/portfolio/vertical_farming.jpeg",
       "smallImage": "img/portfolio/vertical_farming.jpeg"
-    },{
-      "title": "Our farming practices",
-      "description":"",
-      "largeImage": "img/portfolio/our_farming_practices.jpeg",
-      "smallImage": "img/portfolio/our_farming_practices.jpeg"
     }
   ],
   "Services": [
