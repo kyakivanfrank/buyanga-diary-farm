@@ -44,12 +44,6 @@
       "smallImage": "img/portfolio/cow_feed.jpeg"
     },
     {
-      "title": "Drinking place",
-      "description":"this is the banana planatationss",
-      "largeImage": "img/portfolio/drinking_place.jpeg",
-      "smallImage": "img/portfolio/drinking_place.jpeg"
-    },
-    {
       "title": "Fish pond",
       "description":"",
       "largeImage": "img/portfolio/fish_pond.jpeg",
@@ -60,33 +54,6 @@
       "description":"",
       "largeImage": "img/portfolio/milking_cow.jpeg",
       "smallImage": "img/portfolio/milking_cow.jpeg"
-    },
-    {
-      "title": "Our farming practices",
-      "description":"",
-      "largeImage": "img/portfolio/our_farming_practices.jpeg",
-      "smallImage": "img/portfolio/our_farming_practices.jpeg"
-    },
-    {
-      "title": "Nursery bed",
-      "description":"",
-      "largeImage": "img/portfolio/nursery_bed.jpeg",
-      "smallImage": "img/portfolio/nursery_bed.jpeg"
-    },{
-      "title": "watering",
-      "description":"",
-      "largeImage": "img/portfolio/watering.jpeg",
-      "smallImage": "img/portfolio/watering.jpeg"
-    },{
-      "title": "kraal",
-      "description":"",
-      "largeImage": "img/portfolio/kraal.jpeg",
-      "smallImage": "img/portfolio/kraal.jpeg"
-    },{
-      "title": "cow_kraal.jpeg",
-      "description":"",
-      "largeImage": "img/portfolio/cow_kraal.jpeg",
-      "smallImage": "img/portfolio/cow_kraal.jpeg"
     },{
       "title": "cows in the kraal",
       "description":"",
@@ -97,12 +64,6 @@
       "description":"",
       "largeImage": "img/portfolio/omuraalo.jpeg",
       "smallImage": "img/portfolio/omuraalo.jpeg"
-    },
-{
-      "title": "vertical farming",
-      "description":"",
-      "largeImage": "img/portfolio/vertical_farming.jpeg",
-      "smallImage": "img/portfolio/vertical_farming.jpeg"
     }
   ],
   "Services": [
