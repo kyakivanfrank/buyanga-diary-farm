@@ -11,6 +11,11 @@ import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import { Blog } from "./components/blog";
 
+import {
+  BrowserRouter as Router,
+} from "react-router-dom";
+
+
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
@@ -24,7 +29,8 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
+      <Navigation /><Router>
+
       <Header data={landingPageData.Slides} /> 
       <About data={landingPageData.About} />
       <Team data={landingPageData.Team}/>
@@ -32,6 +38,8 @@ const App = () => {
       <Blog data={landingPageData.Blog}/>
       <Gallery data={landingPageData.Gallery}/> 
       <Contact data={landingPageData.Contact} /> 
+      </Router>
+
     </div>
   );
 };
