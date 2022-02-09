@@ -2,20 +2,20 @@
     "Slides":[
       {
         "image": "../img/slides/cows.jpg",
-      "slideTitle":"Zero grazing cattle",
+      "slideTitle":"WELCOME TO BUYANGA DAIRY FARM",
       "caption":"Our farm activities extend not only to catering for our healthy animals. But we also advise and help other local farmers on zero grazing and other productive farming practices."
       },    {
         "image": "../img/slides/fish_ponds.jpeg",
-      "slideTitle":"we do other farming projects",
-      "caption":"With most emphasis on Dairy, We also carry out fish farming, plantation and more which in return help us for food security, income and feeding our animals"
+      "slideTitle":"WELCOME TO BUYANGA DAIRY FARM",
+      "caption":"We Train and do Agricultural Advisory in Dairy Farming, Poultry and Aqua-culture"
       }],
 
   "About": {
-    "paragraph": "Buyanga dairy farm's Inspiration grew when our Director Mr. Samuel kalungi visited Nyeri, kenya Meeting a farmer who says he started with 2 cows but currently grew a population of upto 230 cows. We've been in existence from 2020 to date and from 2 cows to 17 cows. And we're working painstakingly not only on dairy farming but in other fields like aqua culture, cultivation and much more.",
-    "vision": "Atleast in the middle or by the end of the decade we'll have grown our farm from 17 to a warping 200 animals. And have managed to help a number of local farmers so the chain of development is kept steady",
-    "mission": "Our ambition is to fight poverty through building and growing productive farming systems for ourselves and the local farmers in our area. We guide them on how to breed healthy animals.",
+    "paragraph": "Buyanga dairy farm is designed to boost agriculture, majoring in Dairy, poultry and Aqua-culture in order to increase the incomes of small scale farmers, so they can lift their families and communities out of poverty. </br> Our Farm is funded by Onward resources international and implemented in partnership with Kayunga Diary Farm.",
+    "vision": "Atleast by the end of the decade, we'd have trained upto 100 local farmers, by lifting them out of poverty through increasing their production and income. ",
+    "mission": "Our aim is to fight poverty through building and growing productive diary farming systems for ourselves and the local farmers in our area. We guide them on smart agricuture.",
     "Why": [
-      "Diary farming","Farming advisory","Banana Plantations"
+      "Diary farming","Poultry", "Aqua-culture"
      ],
     "Why2": [
       "",
@@ -44,61 +44,16 @@
       "smallImage": "img/portfolio/cow_feed.jpeg"
     },
     {
-      "title": "Drinking place",
-      "description":"this is the banana planatationss",
-      "largeImage": "img/portfolio/drinking_place.jpeg",
-      "smallImage": "img/portfolio/drinking_place.jpeg"
-    },
-    {
       "title": "Fish pond",
       "description":"",
       "largeImage": "img/portfolio/fish_pond.jpeg",
       "smallImage": "img/portfolio/fish_pond.jpeg"
     },
     {
-      "title": "Geese",
-      "description":"",
-      "largeImage": "img/portfolio/geese.jpeg",
-      "smallImage": "img/portfolio/geese.jpeg"
-    },
-    {
-      "title": "Grass",
-      "description":"",
-      "largeImage": "img/portfolio/grass.jpeg",
-      "smallImage": "img/portfolio/grass.jpeg"
-    },
-    {
       "title": "milking cow",
       "description":"",
       "largeImage": "img/portfolio/milking_cow.jpeg",
       "smallImage": "img/portfolio/milking_cow.jpeg"
-    },
-    {
-      "title": "Our farming practices",
-      "description":"",
-      "largeImage": "img/portfolio/our_farming_practices.jpeg",
-      "smallImage": "img/portfolio/our_farming_practices.jpeg"
-    },
-    {
-      "title": "Nursery bed",
-      "description":"",
-      "largeImage": "img/portfolio/nursery_bed.jpeg",
-      "smallImage": "img/portfolio/nursery_bed.jpeg"
-    },{
-      "title": "watering",
-      "description":"",
-      "largeImage": "img/portfolio/watering.jpeg",
-      "smallImage": "img/portfolio/watering.jpeg"
-    },{
-      "title": "kraal",
-      "description":"",
-      "largeImage": "img/portfolio/kraal.jpeg",
-      "smallImage": "img/portfolio/kraal.jpeg"
-    },{
-      "title": "cow_kraal.jpeg",
-      "description":"",
-      "largeImage": "img/portfolio/cow_kraal.jpeg",
-      "smallImage": "img/portfolio/cow_kraal.jpeg"
     },{
       "title": "cows in the kraal",
       "description":"",
@@ -109,50 +64,22 @@
       "description":"",
       "largeImage": "img/portfolio/omuraalo.jpeg",
       "smallImage": "img/portfolio/omuraalo.jpeg"
-    },{
-      "title": "pawpaw tree",
-      "description":"",
-      "largeImage": "img/portfolio/pawpaw_tree.jpeg",
-      "smallImage": "img/portfolio/pawpaw_tree.jpeg"
-    },{
-      "title": "vertical farming",
-      "description":"",
-      "largeImage": "img/portfolio/vertical_farming.jpeg",
-      "smallImage": "img/portfolio/vertical_farming.jpeg"
-    },{
-      "title": "Our farming practices",
-      "description":"",
-      "largeImage": "img/portfolio/our_farming_practices.jpeg",
-      "smallImage": "img/portfolio/our_farming_practices.jpeg"
     }
   ],
   "Services": [
     {
       "icon": "../img/services/cows.jpg",
-      "name": "Dairy farming and food security",
-      "text": "We keep our animals(cows) purposely to generate income and for diary products like beef, milk, butter, cheese etc! And from 2 cows we've managed to keep around 15 more animals"
+      "name": "FRESH MILK AND OTHER DAIRY PRODUCTS",
+      "text": "100% full cream natural milk, fresh beef and other products like cheese, butter etc."
     },
     {
       "icon": "../img/services/Advisory.jpg",
-      "name": "Advisory and inspiration",
-      "text": "We push knowledge down to the local farmers nearby on effective farming practices through organizing and attending seminars, Organizing the farmers into groups to grow together"
+      "name": "FARMING ADVISORY",
+      "text": "Linkage of farmers to financial institutions, guidance on modern farming practices"
     },{
       "icon": "../img/services/insermination.jpg",
-      "name": "Guiding local farmers on breeds",
-      "text": "With close attention offered through guiding them, to we also help our local farmers deeply technical practices like articifial insermination, breeding their animals, keeping records(how many liters of milk the cows produce and more)"
-    },
-    {
-      "icon": "../img/services/milk.jpg",
-      "name": "Finding market for farmer's products",
-      "text": "Since it's all about income. We've helped farmers on finding better market for their produce. Where they can sell their milk"
-    },{
-      "icon": "../img/services/vertical_farming.jpeg",
-      "name": "Small scale gardens",
-      "text": "On the side, we also grow crops, we practice and encourage modern practices like small scale vertical gardens of skuma wiki, we have a large banana plantations and make use of the cow dung from the animals to as pesticides and fertilizers"
-    },{
-      "icon": "../img/services/fish_ponds.jpeg",
-      "name": "Aquaculture",
-      "text": "we have ponds of fish and aim to encourage farmers on aqua culture too"
+      "name": "POULTRY AND AQUA-CULTURE",
+      "text": "We have upto 4000 birds and we maintain 4 highly productive fish ponds"
     }
   ],
 
@@ -168,37 +95,37 @@
     {
       "img": "img/team/samuel_kalungi.jpg",
       "name": "Samuel Kalungi",
-      "job": "Director",
+      "job": "Founder",
       "school":"Bsc. Science in agriculture - MUK"
     },
     {
       "img": "img/team/aisha_nalwoga.jpg",
       "name": "Aisha Nalwoga",
-      "job": "Ass. Director",
+      "job": "Director",
       "school":"Bsc. Aqua culture - MUK"
     },
     {
       "img": "img/team/hajara_kalungi.jpg",
       "name": "Hajara Kalungi",
-      "job": "Farm Manager",
+      "job": "Accountant",
       "school":"Bsc. Environmental science - MUK"
     },{
       "img": "img/team/nuhu_mawanda.jpg",
       "name": "Nuhu Mawanda",
-      "job": "Accountant",
+      "job": "Farm manager",
       "school":"Bsc. Commerce - MUK"
     }
   ],
 "Blog":[
-  {"img":"img/articles/heifer.jpeg",
-    "title": "From Kenya to Bangladesh: 5 Ways Heifer Builds Strong Market Systems",
-    "article":"The road to resilient food systems is not without its obstacles. A changing climate often complicates harvests. Natural disasters flood fields and damage yields. And, sometimes, a novel pathogen triggers a once-in-a-century pandemic, battering supply chains and forcing agricultural workers to stay home. Heifer understands working toward a world free of poverty and hunger means planning now for an unpredictable future. For lasting change, we’re thinking big by working local, improving the collective power of smallholder farmers through technical training and business support, and by developing sturdy market systems at the community level. This requires investing — in local farmers and their communities, the infrastructure they use and the systems in place that enable the most vulnerable to earn a Sustainable Living Income, generating wealth to lift themselves out of poverty. And the stakes are high: Efficient market systems and fair prices give farmers the purchasing power to keep nutritious food on the table and roofs above their heads. Investing in infrastructure across our projects in Asia, Africa and the Americas paves the way forward for farmers’ success.",
-    "extract":"Heifer Uganda | December 3 2021"
+  {"img":"img/articles/cattleField.jpg",
+    "title": "We are inspired more - Ugandas Dairy farmers develop taste for new market",
+    "article":"Keeping cattle is a time-honored cultural tradition in western Uganda, where the iconic long-horned animals are associated with royalty—and valued for far more than the milk they produce. But as families shift to commercial farming to meet the nation’s steadily rising demand for milk, many of them need advice on techniques that will help fortify milk production. Joseph Nsereko, a farmer in Mbarara, used to be one of those farmers looking for support. He struggled to increase milk production to beyond 180 liters per day from a dairy herd of around 30 cows. Pearl Dairy, a milk processor that depends on local farmers for a sustainable, steady supply of milk, reached out to train Nsereko. With Pearl Dairy’s guidance—including direct engagement and access to regular agricultural extension services—he doubled his farm’s daily raw milk output",
+    "extract":"Diary farming in Uganda | December 3 2021"
      },
-     {"img":"img/articles/education.jpg",
-      "title": "How Heifer Supports Farmers Through Education",
-      "article":"On this International Day of Education we recognize the important role that education plays in improving the lives and livelihoods of farmers around the world. Heifer has a long history of supporting farmers as they join cooperatives to share knowledge, pool resources, and access financing to invest and grow their farms and businesses. Through our Community Mobilization model Heifer has created a framework for building the skills of individuals and communities as they work together to achieve their goals. Supporting the world’s poorest households to earn a Sustainable Living Income requires attention to the skills and information that are most needed to begin their journey. For instance, essential literacy skills empower women in remote rural villages, while record keeping and business plan training supports first-time farmers as they start their businesses. Throughout the training process, individuals and self-help groups are active agents in their own development, implementing what they have learned in their lives as parents and family members, entrepreneurs and cooperative leaders as well as other roles and opportunities opened through training from Heifer. These efforts are aimed at accelerating progress towards United Nations Sustainable Development Goal 4, which seeks to improve access to education for all. ",
-      "extract":"Heifer International | January 24, 2022"
+     {"img":"img/articles/cattleArticle.jpg",
+      "title": "Uganda's ever growing diary sector. This inspires us so much",
+      "article":"It was first estimated that livestock contributed 1.7 percent to total national GDP in 2009. That estimate was later revised to about 3.2 percent. By 2014, that contribution had risen to 9 percent of national GDP. The cattle kept are predominantly indigenous breeds, accustomed to the weather and husbandry practices as practiced by the herder communities, conditions that many exotic breeds could not withstand. Exotic breeds have been introduced, but the majority of farms have mixed breeds, whose productivity, although higher than the traditional breeds, does not match that of the exotics.",  
+"extract":"cattle facts in uganda | January 24, 2022"
        }
 ]
 
