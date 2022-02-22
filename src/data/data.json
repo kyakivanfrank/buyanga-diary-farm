@@ -28,19 +28,19 @@
   "Gallery": [
     {
       "title": "Banana plantation",
-      "description":"we have a full hectare of bananas",
+      "description":"Our banana plantations' growth is also boosted from the manure provided from our poultry waste and cow dung",
       "largeImage": "img/portfolio/banana_plantation.jpeg",
       "smallImage": "img/portfolio/banana_plantation.jpeg"
     },
     {
       "title": "Canning our milk",
-      "description":"canning our milk in the morning",
+      "description":"Our cows give us the best milk",
       "largeImage": "img/portfolio/canning_our_milk.jpeg",
       "smallImage": "img/portfolio/canning_our_milk.jpeg"
     },
     {
       "title": "Cow feed",
-      "description":"this is the banana planatationss",
+      "description":"",
       "largeImage": "img/portfolio/cow_feed.jpeg",
       "smallImage": "img/portfolio/cow_feed.jpeg"
     },
