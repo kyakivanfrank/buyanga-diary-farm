@@ -1,6 +1,6 @@
 // import { useState } from "react";
 export const Header = ({data}) => {
-let num = Math.floor(Math.random()*2)
+let num = Math.floor(Math.random()*1)
 
   return <header id='header'>
       <div className='intro'>
