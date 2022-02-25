@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-     &copy; 2022 Buyanga Dairy Farm| {"Maintained by "}
+     &copy; 2020 Buyanga Dairy Farm| {"Maintained by "}
             <a href='http://frank-portifolio.herokuapp.com' rel='nofollow'>
               Kyakivanfrank
             </a>
